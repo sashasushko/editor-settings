@@ -7,9 +7,12 @@
     "editor.fontFamily": "'DejaVu Sans Code','DejaVu Sans Mono', monospace",
     /* лигатуры для красоты */
     "editor.fontLigatures": true,
-    /* приятные глазу размер и высота шрифта */
-    "editor.fontSize": 16,
-    "editor.lineHeight": 24,
+    /* увеличенный интерфейс, чтобы не щуриться */
+    "window.zoomLevel": 1,
+    /* приятные глазу размер и высота шрифта при указанном масштабе */
+    "editor.fontSize": 13,
+    "editor.lineHeight": 20,
+    "terminal.integrated.fontSize": 13,
     /* ограничитель для наглядности, совпадает --print-width у Prettier */
     "editor.rulers": [100],
     /* чтобы миникарта не занимала место справа */
