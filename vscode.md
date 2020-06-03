@@ -4,9 +4,8 @@
 ```js
 {
     /* нестандартные шрифты */
-    "editor.fontFamily": "'DejaVu Sans Code','DejaVu Sans Mono', monospace",
-    /* лигатуры для красоты */
-    "editor.fontLigatures": true,
+    "editor.fontFamily": "'DejaVu Sans Mono', Monaco, Consolas, monospace",
+    "editor.fontLigatures": false,
     /* увеличенный интерфейс, чтобы не щуриться */
     "window.zoomLevel": 1,
     /* приятные глазу размер и высота шрифта при указанном масштабе */
@@ -30,6 +29,4 @@
 }
 ```
 
-В настройках указаны нестандартные шрифты, чтобы работали лигатуры. Поэтому потребутся установить их в систему:
-* [DejaVu Sans Mono](https://dejavu-fonts.github.io/)
-* [DejaVu Sans Code](https://github.com/SSNikolaevich/DejaVuSansCode)
+В настройках указан нестандартный шрифт [DejaVu Sans Mono](https://dejavu-fonts.github.io/), потребутся установить его в систему. Если не установить, подхватятся системные моноширинные шрифты.
