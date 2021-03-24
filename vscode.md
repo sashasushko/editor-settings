@@ -20,7 +20,7 @@
     "editor.showFoldingControls": "always",
     /* чтобы список открытых файлов не дублировал табы */
     "explorer.openEditors.visible": 0,
-    /* чтобы не выскакивали лишние предупреждения */
+    /* чтобы понимать изменения по быстрому взгляду на вкладку */
     "workbench.editor.highlightModifiedTabs": true,
     /* чтобы не выскакивали лишние предупреждения */
     "git.confirmEmptyCommits": false,
