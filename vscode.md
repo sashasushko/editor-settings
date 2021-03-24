@@ -9,7 +9,7 @@
     "editor.fontFamily": "'DejaVu Sans Mono', Monaco, Consolas, monospace",
     "editor.fontLigatures": false,
     /* увеличенный интерфейс, чтобы не щуриться */
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0.75,
     /* приятные глазу размер и высота шрифта при указанном масштабе */
     "editor.fontSize": 13,
     "editor.lineHeight": 20,
