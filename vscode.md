@@ -27,7 +27,8 @@
     /* чтобы не выскакивали лишние предупреждения */
     "git.confirmEmptyCommits": false,
     "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false
+    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "newUntitledFile"
 }
 ```
 
