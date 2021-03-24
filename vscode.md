@@ -3,6 +3,8 @@
 
 ```js
 {
+    /* приятная глазу стандартная тема */
+    "workbench.colorTheme": "Solarized Light",
     /* нестандартные шрифты */
     "editor.fontFamily": "'DejaVu Sans Mono', Monaco, Consolas, monospace",
     "editor.fontLigatures": false,
