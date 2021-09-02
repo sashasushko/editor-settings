@@ -4,7 +4,7 @@
 ```js
 {
     /* приятная глазу стандартная тема */
-    "workbench.colorTheme": "Solarized Light",
+    "workbench.colorTheme": "Quiet Light",
     /* нестандартные шрифты */
     "editor.fontFamily": "Monaco, Consolas, monospace",
     "editor.fontLigatures": false,
