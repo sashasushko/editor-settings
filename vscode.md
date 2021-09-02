@@ -6,10 +6,10 @@
     /* приятная глазу стандартная тема */
     "workbench.colorTheme": "Solarized Light",
     /* нестандартные шрифты */
-    "editor.fontFamily": "'DejaVu Sans Mono', Monaco, Consolas, monospace",
+    "editor.fontFamily": "Monaco, Consolas, monospace",
     "editor.fontLigatures": false,
     /* увеличенный интерфейс, чтобы не щуриться */
-    "window.zoomLevel": 0.75,
+    "window.zoomLevel": 1,
     /* приятные глазу размер и высота шрифта при указанном масштабе */
     "editor.fontSize": 13,
     "editor.lineHeight": 20,
@@ -31,5 +31,3 @@
     "workbench.startupEditor": "newUntitledFile"
 }
 ```
-
-В настройках указан нестандартный шрифт [DejaVu Sans Mono](https://dejavu-fonts.github.io/), потребутся установить его в систему. Если не установить, подхватятся системные моноширинные шрифты.
