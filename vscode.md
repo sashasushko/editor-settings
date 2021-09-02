@@ -11,8 +11,8 @@
     /* увеличенный интерфейс, чтобы не щуриться */
     "window.zoomLevel": 1,
     /* приятные глазу размер и высота шрифта при указанном масштабе */
-    "editor.fontSize": 13,
-    "editor.lineHeight": 20,
+    "editor.fontSize": 15,
+    "editor.lineHeight": 21,
     "terminal.integrated.fontSize": 13,
     /* ограничитель для наглядности, совпадает --print-width у Prettier */
     "editor.rulers": [100],
