@@ -28,6 +28,6 @@
     "git.confirmEmptyCommits": false,
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "none"
 }
 ```
