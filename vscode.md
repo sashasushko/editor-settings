@@ -27,6 +27,9 @@
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "workbench.startupEditor": "none",
-    "editor.wordWrap": "on"
+    /* чтобы на ноутбуке было удобнее работать */
+    "editor.wordWrap": "on",
+    /* чтобы начало строки не прыгало, если скрывать-показывать сайдбар */
+    "workbench.sideBar.location": "right"
 }
 ```
