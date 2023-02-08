@@ -30,6 +30,10 @@
     /* чтобы на ноутбуке было удобнее работать */
     "editor.wordWrap": "on",
     /* чтобы начало строки не прыгало, если скрывать-показывать сайдбар */
-    "workbench.sideBar.location": "right"
+    "workbench.sideBar.location": "right",
+    /* чтобы при создании файлов выставлялся удобный отступ, если в проекте нет .editorconfig */
+    "editor.detectIndentation": true,
+    "editor.indentSize": "tabSize",
+    "editor.tabSize": 2
 }
 ```
