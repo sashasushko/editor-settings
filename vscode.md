@@ -26,6 +26,7 @@
     "git.confirmEmptyCommits": false,
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "editor.wordWrap": "on"
 }
 ```
