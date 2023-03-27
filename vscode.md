@@ -14,6 +14,8 @@
     "editor.fontSize": 15,
     "editor.lineHeight": 21,
     "terminal.integrated.fontSize": 13,
+    /* чтобы окно было больше */
+    "workbench.layoutControl.enabled": false,
     /* чтобы миникарта не занимала место справа */
     "editor.minimap.enabled": false,
     /* чтобы кнопки развернуть/свернуть были всегда */
@@ -27,6 +29,8 @@
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "workbench.startupEditor": "none",
+    "extensions.ignoreRecommendations": true,
+    "git.confirmSync": false,
     /* чтобы на ноутбуке было удобнее работать */
     "editor.wordWrap": "on",
     /* чтобы начало строки не прыгало, если скрывать-показывать сайдбар */
