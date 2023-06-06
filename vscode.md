@@ -22,6 +22,8 @@
     "editor.showFoldingControls": "always",
     /* чтобы список открытых файлов не дублировал табы */
     "explorer.openEditors.visible": 0,
+    /* чтобы пустые вложенные директории не схлопывались в боковом меню */
+    "explorer.compactFolders": false,
     /* чтобы понимать изменения по быстрому взгляду на вкладку */
     "workbench.editor.highlightModifiedTabs": true,
     /* чтобы не выскакивали лишние предупреждения */
