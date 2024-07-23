@@ -35,11 +35,20 @@
     "git.confirmSync": false,
     /* чтобы на ноутбуке было удобнее работать */
     "editor.wordWrap": "on",
+    "window.commandCenter": false,
     /* чтобы начало строки не прыгало, если скрывать-показывать сайдбар */
     "workbench.sideBar.location": "right",
     /* чтобы при создании файлов выставлялся удобный отступ, если в проекте нет .editorconfig */
     "editor.detectIndentation": true,
     "editor.indentSize": "tabSize",
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    /* чтобы Копайлот не "воровал" данные */
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": true,
+        "properties": false
+    }
 }
 ```
