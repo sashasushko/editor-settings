@@ -49,6 +49,10 @@
         "markdown": false,
         "scminput": true,
         "properties": false
-    }
+    },
+    /* чтобы ВС Код не "воровал" данные */
+    "telemetry.enableTelemetry": true,
+    "telemetry.enableCrashReporter": true,
+    "telemetry.telemetryLevel": "off"
 }
 ```
